@@ -6,3 +6,5 @@ prefix            = "tfdemo"
 
 # Provide your SSH public key path here.
 ssh_public_key_path = "~/.ssh/id_rsa.pub"
+
+subscription_id = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
