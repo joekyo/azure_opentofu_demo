@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and adjust values as needed.
+
+location          = "eastasia"
+resource_group_name = "tfdemo-rg"
+prefix            = "tfdemo"
+
+# Provide your SSH public key path here.
+ssh_public_key_path = "~/.ssh/id_rsa.pub"
