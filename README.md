@@ -13,6 +13,7 @@ This project deploys an Azure Virtual Machine (Ubuntu) running **nginx**, with a
 2. Initialize and apply:
 
 ```bash
+export ARM_SUBSCRIPTION_ID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 opentofu init
 opentofu plan
 opentofu apply
